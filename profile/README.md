@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/Gemini_Generated_Image_uxnlgruxnlgruxnl.png" alt="pantry-ai logo" width="200" height="auto" style="border-radius: 50%;" />
+<img src="[Gemini_Generated_Image_uxnlgruxnlgruxnl.png]" alt="pantry-ai logo" width="200" height="auto" style="border-radius: 50%;" />
 
 # pantry-ai
 
